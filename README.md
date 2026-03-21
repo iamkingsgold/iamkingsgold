@@ -43,8 +43,8 @@ From writing code to building companies.
 
 - Twitter/X: https://x.com/iamkingsgold
 - Instagram: https://instagram.com/iamkingsgold
-- LinkedIn: (add your link)
-- Medium: (add your link)
+- LinkedIn: https://www.linkedin.com/company/iamkingsgold
+- Medium: https://medium.com/@iamkingsgold
 
 ## ✨ Personal Philosophy
 
