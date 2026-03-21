@@ -12,7 +12,7 @@ My name is Kingsley Nwoye, also known as KINGSGOLD. I started my journey as a cu
 
 I believe in consistency, learning in public, and turning ideas into real products.
 
-## 🖤💛 FROM COAL TO GOLD
+## FROM COAL TO GOLD 🖤💛
 
 **Coal → Software Engineer**  
 **Gold → Serial Entrepreneur**
