@@ -21,7 +21,7 @@ From writing code to building companies.
 
 ## 🛠 What I'm Working On
 
-- Building **Staydeck** – a platform to host and book stays in Nigeria, expanding across Africa.
+- Building **Staydeck**, a platform to host and book stays in Nigeria, expanding across Africa.
 - Improving my skills in software engineering
 - Building MVPs and startup products
 - Documenting my founder journey
