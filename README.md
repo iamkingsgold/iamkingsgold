@@ -43,10 +43,13 @@ From writing code to building companies.
 
 ## 🌍 Connect With Me
 
-- Twitter/X: https://x.com/iamkingsgold
+- Facebook: https://www.facebook.com/iamkingsgold
 - Instagram: https://instagram.com/iamkingsgold
+- Twitter/X: https://x.com/iamkingsgold
+- TikTok: https://www.tiktok.com/@iamkingsgold
 - LinkedIn: https://www.linkedin.com/company/iamkingsgold
 - Medium: https://medium.com/@iamkingsgold
+- More: https://linktr.ee/iamkingsgold
 
 ## ✨ Personal Philosophy
 
