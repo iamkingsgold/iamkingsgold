@@ -28,11 +28,11 @@ From writing code to building companies.
 
 ## 💻 Tech Stack
 
-- HTML
-- CSS
 - JavaScript
+- Python
 - Git & GitHub
 - Web Development
+- Many More
 
 ## 📈 My Goals
 
