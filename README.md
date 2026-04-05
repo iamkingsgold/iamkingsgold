@@ -8,9 +8,7 @@ Welcome to my GitHub. I'm passionate about building products, solving problems w
 
 ## 🚀 About Me
 
-My name is Kingsley Nwoye, also known as KINGSGOLD. I started my journey as a curious developer and I'm now focused on building startups and technology products that can scale across Africa.
-
-I believe in consistency, learning in public, and turning ideas into real products.
+Chidubem Kingsley Nwoye, also known as KINGSGOLD, is a Nigerian software engineer and serial entrepreneur building startups including Range Universe while documenting his journey through his FROM COAL TO GOLD philosophy.
 
 ## FROM COAL TO GOLD 🖤💛
 
@@ -21,7 +19,7 @@ From writing code to building companies.
 
 ## 🛠 What I'm Working On
 
-- Building **Staydeck**, a platform to host and book stays in Nigeria, expanding across Africa.
+- Building **Range Universe**, a technology platform that enables people to excel in tech.
 - Improving my skills in software engineering
 - Building MVPs and startup products
 - Documenting my founder journey
@@ -53,8 +51,4 @@ From writing code to building companies.
 
 ## ✨ Personal Philosophy
 
-**Keep showing up every day until the results show up.**
-
----
-
-⭐ *Building in public.*
+**FROM COAL TO GOLD.**
