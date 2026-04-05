@@ -8,7 +8,7 @@ Welcome to my GitHub. I'm passionate about building products, solving problems w
 
 ## 🚀 About Me
 
-Chidubem Kingsley Nwoye, also known as KINGSGOLD, is a Nigerian software engineer and serial entrepreneur building startups including Range Universe while documenting his journey through his FROM COAL TO GOLD philosophy.
+Kingsley Chidubem Nwoye, also known as KINGSGOLD, is a Nigerian software engineer and serial entrepreneur building startups including Range Universe while documenting his journey through his FROM COAL TO GOLD philosophy.
 
 ## FROM COAL TO GOLD 🖤💛
 
