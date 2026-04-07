@@ -1,6 +1,6 @@
 ![ezgif com-gif-maker (6)](https://pbs.twimg.com/profile_banners/1319356235980935169/1773207597/1500x500)
 
-# Hi, I'm KINGSGOLD 👋
+# KINGSGOLD
 
 **Software Engineer • Serial Entrepreneur**
 
