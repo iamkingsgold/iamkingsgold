@@ -4,11 +4,11 @@
 
 **Software Engineer • Serial Entrepreneur**
 
-KINGSGOLD is a Nigerian software engineer and serial entrepreneur.
+KINGSGOLD is a software engineer and serial entrepreneur.
 
 ## 🚀 About
 
-Kingsley Chidubem Nwoye, also known as KINGSGOLD, is a Nigerian software engineer and serial entrepreneur building startups including Range Universe while documenting his journey through his FROM COAL TO GOLD philosophy.
+Kingsley Chidubem Nwoye, also known as KINGSGOLD, is a software engineer and serial entrepreneur building startups including Range Universe while documenting his journey through his FROM COAL TO GOLD philosophy.
 
 ## FROM COAL TO GOLD
 
