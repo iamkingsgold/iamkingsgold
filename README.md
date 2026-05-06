@@ -2,7 +2,7 @@
 
 # KINGSGOLD
 
-**Software Engineer • Serial Entrepreneur Building with tech. From Coal To Gold.**
+**ENGINEER × PRODUCER**
 
 ## 🚀 About
 
